@@ -4,7 +4,6 @@ import threading
 import queue
 import time
 import ddsp
-import ddsp.training
 import tensorflow as tf
 ddsp.spectral_ops.reset_crepe()
 
