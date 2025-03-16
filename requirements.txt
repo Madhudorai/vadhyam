@@ -8,3 +8,4 @@ pygame
 pretty_midi
 soundfile
 sounddevice
+pyfluidsynth
