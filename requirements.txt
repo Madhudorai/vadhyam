@@ -3,3 +3,8 @@ sounddevice>=0.4.5
 tensorflow==2.11.1
 tensorflow-probability==0.19.0
 ddsp==3.6.0
+basic-pitch
+pygame
+pretty_midi
+soundfile
+sounddevice
